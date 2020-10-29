@@ -82,7 +82,7 @@ pre {
   justify-content: space-between;
 }
 
-/* Showcase (or Hero) */
+/* Showcase */
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
@@ -188,6 +188,7 @@ pre {
 }
 
 /* Languages */
+
 .languages .flex {
   flex-wrap: wrap;
 }
